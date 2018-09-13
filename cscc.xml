@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<!--
+M: Missing word
+R: Redudant word
+S: Selection
+W: Word order
+-->
+<records>
+  <error t="音似">他表示<e c="爱莫能助">爱末能助</e></error>
+  <error type="S">每半年<e c="安排">按排</e>2―3个部门和分管领导</error>
+  <error type="S">银河<e c="百科全书">百料全书</e></error>
+  <error type="S">高技术服务<e c="板块">板快</e>还具有三方面优势</error>
+  <error type="S">高技术服务<e c="板块">版块</e>还具有三方面优势</error>
+  <error type="S">就难免<e c="心理">必理</e>不平衡。</error>  
+  <error type="S">没有得到<e c="补偿">补尝</e>.</error>
+  <error type="S">市委和区委的决策<e c="部署">部暑</e></error>
+  <error type="R">听说你打算开一个庆祝会。可惜我不能参加。因为那个时候我有别的事。当然我也要<e c="">参加</e>给你庆祝庆祝。</error>
+  <error type="S"><e c="差不多">差下多</e>有几百亩大小</error>
+  <error type="S">在车身<e c="承重">称重</e>部位使用了铝合金<e c="材质">才智</e>。</error>  
+  <error type="S">洗心革面，<e c="重新">从新</e>做人</error>
+  <error type="S">工作人员未穿衣<e c="戴">带</e>帽等问题等</error>
+  <error type="S">科学部长应该跟我这位行政首长<e c="谈及">淡及</e>此人</error>
+  <error type="S"><e c="党徽">党微</e>佩戴</error>
+  <error type="S">千方百计<e c="渡">度</e>难关</error>
+  <error type="S">把学生<e c="分为">氛围</e>两组。</error>
+  <error t="音似,义似">当库伯·雷恩在为剧本的初稿而<e c="奋笔疾书">奋笔急书</e>的时候</error> 
+  <error type="S">打扫清理的<e c="干干净净">干干静静</e></error>
+  <error type="S">主任<e c="挂帅">挂率</e>的食品安全委员会</error>
+  <error type="S"><e c="好像">好象</e>是我们错了。</error>
+  <error type="S">她被称为本医院最贴心的<e c="护士">护土</e></error>
+  <error type="S">西藏叛乱的失败，使尼赫鲁“大印度联邦”的构想<e c="化为">华为</e>泡影。</error>
+  <error type="S"><e c="华夏">化夏</e>子孙团结一心。</error>
+  <error type="S">看来生活中也是蛮<e c="会">回</e>撒娇的呢。</error>
+  <error type="S">我们会优先推动五大创新研发<e c="计划">计画</e>。</error>
+  <error type="S">在那次火灾中，他身上的皮肤很多地方都<e c="烧">浇</e>了。</error>
+  <error type="S">他<e c="接受">接收</e>总经理的邀请参加会议</error>
+  <error type="S">走马镇为<e c="进一步">近一步</e>巩固创卫工作</error>
+  <error type="S">人群中发出一阵<e c="惊呼">惊吁</e>声。</error>
+  <error type="S">保护好<e c="勘察">堪查</e>现场。</error> 
+  <error type="S"><e c="拉拢">拉笼</e>工作人员的情形。</error>
+  <error type="S">我根本不能<e c="理解">了解</e>妇女辞职回家的现象。在这个时代，为什么放弃自己的工作，就回家当家庭主妇？</error>
+  <error t="形似">清理已是<e c="满目疮痍">满目苍痍</e>的房屋</error>
+  <error type="S">“<e c="蒙汗药">蒙汉药</e>!”加尼马尔恍然大悟，他费了九牛二虎之力，终于把他的助手弄醒。</error>
+  <error type="S">吴先生是修理自行车的<e c="好手">拿手</e></error>
+
+  <error type="S">说自己<e c="是">市</e>提前两天<e c="排队">排对</e>的。</error>
+  <error type="S"><e c="泡沫">泡末</e>塑料等方法</error>
+  <error type="S">均可<e c="品尝">品偿</e>到新鲜草莓</error>
+  <error type="S">不能适应体育专业选拔<e c="人才">人材</e>的要求</error>
+  <error type="S">清河安宁庄西二条路<e c="人行">人形</e>步道翻修！</error>
+  <error type="S">这种错误的吃法有害<e c="身体">身休</e></error>
+  <error type="W">所以我不会让<e c="他失望">失望他</e></error>
+  <error type="R">曾有一段<e c="时间">时问时问</e>，大约五百年前</error>
+  <error type="S">在座参会的工会会员都感到<e c="受益匪浅">收益非浅</e></error>
+  <error type="S">相结合的<e c="手段">手断</e>。</error>
+  <error type="S"><e c="熟悉">熟习</e>情况。</error>
+  <error type="S">可以说他是为躲避那架喷射直升机才<e c="迷了路">述了路</e></error>
+  <error type="S">唐僧<e c="师徒">帅徒</e>四人历经千难万苦才取得真经。</error>
+  <error type="S">他把盒子放进了<e c="塑料袋">塑料带</e>里面</error>
+  <error type="S">看看人家，不给钱就<e c="算">酸</e>了，因为你缺的那个敬业福。</error>
+  <error type="S">人民调解工作本身非常<e c="琐碎">锁碎</e></error>
+  <error type="S">1973年起举办世界<e c="跆拳道">胎拳道</e>锦标赛</error>
+  <error type="S">这车<e c="大概">太概</e>需要1000万。</error>
+  <error type="S">开展公共资源交易活动监督检查和举报<e c="投诉">投拆</e>处理</error>
+  <error type="S">甚至龙族的秘密<e c="外泄">歪斜</e>也没有关系。</error>
+  <error type="S">况且到高坎边上<e c="玩耍">玩要</e>逗留也很危险</error>
+  <error type="S">完税证明是税务机关开出的,证明纳税人已交纳税费的<e c="完税">晚睡</e>凭证。</error>
+  <error type="S">一副<e c="末日">未日</e>来临了的景象</error>
+  <error type="S">这是苏州的<e c="鸟瞰图">乌瞰图</e></error>
+  <error type="S">有两艘星舰上的发动机根本<e c="不">下</e>灵光</error>
+  <error type="S">战争<e c="不会">下会</e>无缘无故就打起来</error>
+  <error type="S"><e c="现有">先友</e>三轮摩托车倒档器</error>
+  <error type="S">还可能与这个小村落与比斯特购物村<e c="相去不远">想去不远</e>也不无关系。</error>
+  <error type="S">他想吃<e c="香蕉">橡胶</e></error>
+  <error type="S">他想吃一个<e c="香蕉">橡胶</e></error>
+  <error type="S">提升了居民群众的社区的<e c="幸福">辛福</e>感。</error>
+  <error type="S"><e c="形象">形像</e>代言人。</error>
+  <error type="S">俗话说，走路不知道骑马的<e c="辛苦">幸苦</e></error>
+  <error type="S">房子急需<e c="修葺">修茸</e>一下。</error>
+  <error type="S">简直不敢相信自己的<e c="眼睛">眼晴</e></error>
+  <error type="R">不断<e c="">演</e>深化经济体制改革</error>
+  <error type="S">还有进口香皂、家居服、花艺<e c="样样俱全">样样聚全</e>。</error>
+  <error type="R">停下来欣赏<e c="">一翻一翻一翻一翻</e></error>
+  <error type="S">然后立刻<e c="一哄而上">一哄而敌</e>就行了</error>
+  <error type="S">突出做好<e c="以下">一下</e>三个方面工作。</error>
+  <error type="S">增强自我保护<e c="意识">意思</e>。</error>
+  <error type="S"><e c="她">他</e>的丈夫是<e c="一位">意味</e>老师</error>
+  <error type="S">警示牌赫然<e c="映入眼帘">印入眼帘</e></error>
+  <error type="S">比对整治前后的<e c="影像">影相</e>资料</error>
+  <error type="S">此事不会<e c="影响">影像</e>中国关系大局。</error>
+  <error type="S">对付个人自然<e c="游刃有余">游刀有余</e></error>
+  <error type="S">各村居工作正紧张<e c="有序">有秩</e>地开展。</error>
+  <error type="S">这次假<e c="疫苗">育苗</e>事件带来的影响非常恶劣.</error>
+  <error type="S">看来仍然精力<e c="充沛">允沛</e></error>
+  <error type="S">令客人<e c="赞不绝口">赞不决口</e></error>
+  <error type="S">生产现场<e c="脏">赃</e>乱差</error>
+  <error type="S">施工工地炮机施工时<e c="噪声">燥声</e>较大</error>  
+  <error type="R">我根本不能理解<e c="">这</e>妇女辞职回家的现象。在这个时代，为什么放弃自己的工作，就回家当家庭主妇？</error>
+  <error type="S">现在每个大臣都<e c="知道">指导</e>是谁在最后做出决定</error>
+  <error type="S">等啊等，<e c="终于">忠于</e>等到了。</error>
+  <error type="R">依法<e c="追究">追求追求追求</e>其责任</error>
+  <error type="S">蛙泳是竞技游泳<e c="姿势">姿式</e>之一</error>
+  <error type="S">发布相关政务信息,更好地服务和推进国土<e c="资源">姿源</e>管理各项工作的开展。</error>
+  <error type="S">四是在<e c="咨询台">资询台</e>放有轮椅</error>
+  <error type="S">严格<e c="遵守">尊守</e>“八项规定”的要求</error>
+  <error type="S">所以我们没位子可以<e c="坐">座</e></error>  
+
+  <error type="M">精神<e c="类"></e>疾病的预防、诊冶和康复</error>
+  <error type="M">人战胜了饥饿，才<e c="能"></e>努力为了下一代做更好的、更健康的东西。</error>
+
+  <!-- 正常的句子，但容易识别错误, c(correct)中的e(error)表示很可能识别错误的词语 -->
+  <correct>喝果汁用这种<c e="习惯">吸管</c>非常方便</correct>
+  <correct><c e="不是">不实</c>信息必须澄清。</correct>
+  <correct>集中力量克难中之难、攻艰中之艰</correct>
+</records>
